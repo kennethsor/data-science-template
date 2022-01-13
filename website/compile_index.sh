@@ -30,8 +30,8 @@ mkdir -p $OUTPUT_PATH
 rm $OUTPUT_PATH/*.html
 
 cd $JUPYTER_FOLDER
-wget "https://raw.githubusercontent.com/matsmichelsen/data-science-template/main/notebooks/accidents_analysis.ipynb"
-wget "https://raw.githubusercontent.com/matsmichelsen/data-science-template/main/notebooks/traffic_accidents.ipynb"
+wget "https://raw.githubusercontent.com/kennethsor/data-science-template/main/notebooks/accidents_analysis.ipynb"
+wget "https://raw.githubusercontent.com/kennethsor/data-science-template/main/notebooks/traffic_accidents.ipynb"
 
 cd ..
 
@@ -43,7 +43,7 @@ echo -e "\n\n" >> index.md
 for notebook in $OUTPUT_PATH/*.html
 
 do
-  echo "[$notebook](https://matsmichelsen.github.io/data-science-template/$notebook)" | tee -a index.md
+  echo "[$notebook](https://kennethsor.github.io/data-science-template/$notebook)" | tee -a index.md
   echo -e "\n" >> index.md
 done
 
