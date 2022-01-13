@@ -1,6 +1,6 @@
 ## Geospatial Analyse av ulykker
 
-![svv logo](https://github.com/kennethsor/data-science-template/blob/main/website/svv-logo-youtube.jpg)
+![svv logo](https://kennethsor.github.io/data-science-template/website/svv-logo-youtube.jpg)
 
 Gruppe:
 
