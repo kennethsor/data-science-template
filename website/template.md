@@ -1,6 +1,6 @@
 ## Geospatial Analyse av ulykker
 
-![svv logo](https://namsostrafikkskole.no/wp-content/uploads/2013/11/statens-vegvesen.png)
+![svv logo](https://raw.githubusercontent.com/kennethsor/data-science-template/main/website/svv-logo-youtube.jpg)
 
 Gruppe:
 
