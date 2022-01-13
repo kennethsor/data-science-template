@@ -1,6 +1,6 @@
 ## Geospatial Analyse av ulykker
 
-![svv logo](svv-logo-youtube.jpg)
+![svv logo](https://www.vegvesen.no/globalassets/om-oss/om-organisasjonen/profil/statens-vegvesen-logo-farger.jpg)
 
 Gruppe:
 
