@@ -1,6 +1,6 @@
 ## Geospatial Analyse av ulykker
 
-![This is an image](https://github.com/kennethsor/data-science-template/edit/main/website/statens-vegvesen-engelsk-versjon-logo.jpg)
+![svv logo](https://github.com/kennethsor/data-science-template/blob/main/website/statens-vegvesen-engelsk-versjon-logo.jpg)
 
 Gruppe:
 
